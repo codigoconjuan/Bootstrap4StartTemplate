@@ -17,4 +17,3 @@ Inicia tu proyecto con este template ligero, solo viene con los archivos necesar
 - Descomprime
 - Cambia el nombre del proyecto
 - Crea algo increible!
-
